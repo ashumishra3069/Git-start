@@ -1,0 +1,10 @@
+first time to configure git into your system
+   >> git config --global user.name "    "
+   >> git config --global user.email "    "
+   >> git config --global color.ui auto
+>>git int
+>>git remote add origin
+//to pull file from git hub to code:
+     >> git pull origin main 
+//to push file from editor to git hub:
+     >> git add.
