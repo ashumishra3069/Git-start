@@ -5,6 +5,12 @@ first time to configure git into your system
 >>git int
 >>git remote add origin
 //to pull file from git hub to code:
-     >> git pull origin main 
+     >> git pull origin main
+     >> git status 
 //to push file from editor to git hub:
-     >> git add.
+     >> git add .
+     >> git status
+     >> git commit -m "message"
+     >> git push 
+//to create a new branch 
+     >> git checkout -b "branch name"
